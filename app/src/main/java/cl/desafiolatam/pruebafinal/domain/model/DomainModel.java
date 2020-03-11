@@ -1,7 +1,6 @@
 package cl.desafiolatam.pruebafinal.domain.model;
 
 
-
 public class DomainModel {
 
     private String nombre;
